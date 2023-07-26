@@ -1,0 +1,1269 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2023 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/ebc9bb5b-c8b6-5d9f-8433-26f3b7b4968c",
+      "url": "https://www.nytimes.com/2023/07/22/us/politics/ron-desantis-covid.html",
+      "id": 100000008999378,
+      "asset_id": 100000008999378,
+      "source": "New York Times",
+      "published_date": "2023-07-22",
+      "updated": "2023-07-24 11:51:12",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Coronavirus (2019-nCoV);Coronavirus Delta Variant;Vaccination and Immunization;Presidential Election of 2024;United States Politics and Government;Conservatism (US Politics);Coronavirus Reopenings;vis-video;DeSantis, Ron;Bhattacharya, Jay;Atlas, Scott W;Birx, Deborah L;Rivkees, Scott;Republican Party;Florida",
+      "column": null,
+      "byline": "By Sharon LaFraniere, Patricia Mazzei and Albert Sun",
+      "type": "Article",
+      "title": "The Steep Cost of Ron DeSantis’s Vaccine Turnabout",
+      "abstract": "Once a vaccine advocate, the Florida governor lost his enthusiasm for the shot before the Delta wave sent Covid hospitalizations and deaths soaring. It’s a grim chapter he now leaves out of his rosy retelling of his pandemic response.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Coronavirus Delta Variant",
+        "Vaccination and Immunization",
+        "Presidential Election of 2024",
+        "United States Politics and Government",
+        "Conservatism (US Politics)",
+        "Coronavirus Reopenings",
+        "vis-video"
+      ],
+      "org_facet": [
+        "Republican Party"
+      ],
+      "per_facet": [
+        "DeSantis, Ron",
+        "Bhattacharya, Jay",
+        "Atlas, Scott W",
+        "Birx, Deborah L",
+        "Rivkees, Scott"
+      ],
+      "geo_facet": [
+        "Florida"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gov. Ron DeSantis of Florida presents his Covid strategy not only as his biggest accomplishment, but as the foundation for his presidential campaign.",
+          "copyright": "Joe Raedle/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/21/multimedia/00pol-desantis-covid-kvjb/00pol-desantis-covid-kvjb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/21/multimedia/00pol-desantis-covid-kvjb/00pol-desantis-covid-kvjb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/21/multimedia/00pol-desantis-covid-kvjb/00pol-desantis-covid-kvjb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5c04fa4a-9fbf-55f6-9411-c4b7650bb0d0",
+      "url": "https://www.nytimes.com/2023/07/22/style/quiet-luxury-wealth-status.html",
+      "id": 100000008940590,
+      "asset_id": 100000008940590,
+      "source": "New York Times",
+      "published_date": "2023-07-22",
+      "updated": "2023-07-25 14:49:40",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Luxury Goods and Services;High Net Worth Individuals",
+      "column": null,
+      "byline": "By Guy Trebay",
+      "type": "Article",
+      "title": "What’s the Status of Flaunting Your Status?",
+      "abstract": "In the world of the ultrawealthy, luxury is only quiet if you don’t know what to listen for.",
+      "des_facet": [
+        "Luxury Goods and Services",
+        "High Net Worth Individuals"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "If you’re rich, how should you show your stripes?",
+          "copyright": "Illustration by Anna Bu Kliewer; source image by George Stubbs",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/23/fashion/23STATUS-cover/23STATUS-cover-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/23/fashion/23STATUS-cover/23STATUS-cover-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/23/fashion/23STATUS-cover/23STATUS-cover-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d73d61de-b0d5-5d83-bc63-3068bc27a3b7",
+      "url": "https://www.nytimes.com/2023/07/21/realestate/yoko-ono-dakota-apartment-nyc.html",
+      "id": 100000008891343,
+      "asset_id": 100000008891343,
+      "source": "New York Times",
+      "published_date": "2023-07-21",
+      "updated": "2023-07-24 17:34:11",
+      "section": "Real Estate",
+      "subsection": "",
+      "nytdsection": "real estate",
+      "adx_keywords": "Pop and Rock Music;Real Estate and Housing (Residential);Content Type: Personal Profile;audio-neutral-immersive;audio-positive-happy;Ono, Yoko;Dakota (Manhattan, NY, Apartments);Manhattan (NYC)",
+      "column": null,
+      "byline": "By Anna Kodé",
+      "type": "Article",
+      "title": "Yoko Ono and the Dakota",
+      "abstract": "Word that the pop culture icon has left the fabled Upper West Side apartment building that she defined for a generation has sparked reflection on her impact as a resident there for 50 years.",
+      "des_facet": [
+        "Pop and Rock Music",
+        "Real Estate and Housing (Residential)",
+        "Content Type: Personal Profile",
+        "audio-neutral-immersive",
+        "audio-positive-happy"
+      ],
+      "org_facet": [
+        "Dakota (Manhattan, NY, Apartments)"
+      ],
+      "per_facet": [
+        "Ono, Yoko"
+      ],
+      "geo_facet": [
+        "Manhattan (NYC)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Derek Hudson/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/23/realestate/21yokoonodakota-interiors-02/21yokoonodakota-interiors-02-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/23/realestate/21yokoonodakota-interiors-02/21yokoonodakota-interiors-02-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/23/realestate/21yokoonodakota-interiors-02/21yokoonodakota-interiors-02-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a159548e-886d-547e-8471-66e1512e56e6",
+      "url": "https://www.nytimes.com/2023/07/20/us/celeste-burgess-abortion-pill-nebraska.html",
+      "id": 100000009005116,
+      "asset_id": 100000009005116,
+      "source": "New York Times",
+      "published_date": "2023-07-20",
+      "updated": "2023-07-20 21:30:58",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Abortion;Pregnancy and Childbirth;Abortion Drugs;Teenage Pregnancy;Nebraska",
+      "column": null,
+      "byline": "By Michael Levenson",
+      "type": "Article",
+      "title": "Nebraska Teen Who Used Pills to End Pregnancy Gets 90 Days in Jail",
+      "abstract": "Celeste Burgess, 19, and her mother, Jessica Burgess, 42, were charged last year after the police obtained their private Facebook messages.",
+      "des_facet": [
+        "Abortion",
+        "Pregnancy and Childbirth",
+        "Abortion Drugs",
+        "Teenage Pregnancy"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Nebraska"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Celeste Burgess, 19, on Thursday after being sentenced to 90 days in jail.",
+          "copyright": "Austin Svehla/Norfolk Daily News",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/20/lens/20xp-nebraska1/20xp-nebraska1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/20/lens/20xp-nebraska1/20xp-nebraska1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/20/lens/20xp-nebraska1/20xp-nebraska1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/002ed537-bedd-59c8-a758-fe7c5c89b3a6",
+      "url": "https://www.nytimes.com/2023/07/22/us/pride-books-library-protest.html",
+      "id": 100000008992195,
+      "asset_id": 100000008992195,
+      "source": "New York Times",
+      "published_date": "2023-07-22",
+      "updated": "2023-07-25 18:44:08",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Libraries and Librarians;Philanthropy;LGBTQ Pride Month (US);Censorship;Book Bans;Homosexuality and Bisexuality;Discrimination;Conservatism (US Politics);Right-Wing Extremism and Alt-Right;internal-sub-only;audio-neutral-informative;San Diego (Calif)",
+      "column": null,
+      "byline": "By Jill Cowan",
+      "type": "Article",
+      "title": "They Checked Out Pride Books in Protest. It Backfired.",
+      "abstract": "Two San Diego residents cleared out the Pride month display at their library and said such materials shouldn’t be available to children, one of several recent clashes over L.G.B.T.Q. issues in California.",
+      "des_facet": [
+        "Libraries and Librarians",
+        "Philanthropy",
+        "LGBTQ Pride Month (US)",
+        "Censorship",
+        "Book Bans",
+        "Homosexuality and Bisexuality",
+        "Discrimination",
+        "Conservatism (US Politics)",
+        "Right-Wing Extremism and Alt-Right",
+        "internal-sub-only",
+        "audio-neutral-informative"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "San Diego (Calif)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Rancho Peñasquitos branch of the San Diego Public Library, where two women checked out nearly all of the books at a Pride display to prevent an L.G.B.T.Q. display during Pride month.",
+          "copyright": "John Francis Peters for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/19/multimedia/19nat-california-library-1/fzwj-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/19/multimedia/19nat-california-library-1/fzwj-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/19/multimedia/19nat-california-library-1/fzwj-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/4d91d1f3-ca5d-5a21-ac3f-d2737be7a7fd",
+      "url": "https://www.nytimes.com/interactive/2023/07/21/briefing/news-quiz-heat-gilgo-beach-trump.html",
+      "id": 100000009005379,
+      "asset_id": 100000009005379,
+      "source": "New York Times",
+      "published_date": "2023-07-21",
+      "updated": "2023-07-21 05:01:00",
+      "section": "Briefing",
+      "subsection": "",
+      "nytdsection": "briefing",
+      "adx_keywords": "Content Type: Quiz",
+      "column": null,
+      "byline": "",
+      "type": "Interactive",
+      "title": "The New York Times News Quiz, July 21, 2023",
+      "abstract": "Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.",
+      "des_facet": [
+        "Content Type: Quiz"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "Matt York/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/18/multimedia/19-the-morning-heat-copy/19-the-morning-heat1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/18/multimedia/19-the-morning-heat-copy/19-the-morning-heat-copy-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/18/multimedia/19-the-morning-heat-copy/19-the-morning-heat-copy-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/368c3314-3d77-5fbe-8231-d2fecb1601ed",
+      "url": "https://www.nytimes.com/2023/07/22/us/kidnapped-girl-help-me-sign-texas-california.html",
+      "id": 100000009008071,
+      "asset_id": 100000009008071,
+      "source": "New York Times",
+      "published_date": "2023-07-22",
+      "updated": "2023-07-23 11:21:50",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Kidnapping and Hostages;Sex Crimes;Child Abuse and Neglect;Sablan, Steven Robert;Long Beach (Calif);San Antonio (Tex)",
+      "column": null,
+      "byline": "By Rebecca Carballo",
+      "type": "Article",
+      "title": "Kidnapped Girl’s ‘Help Me!’ Sign Leads to Her Rescue",
+      "abstract": "A passer-by saw the girl’s sign at a parking lot in Long Beach, Calif., after a 61-year-old man had taken her from Texas days earlier, officials said.",
+      "des_facet": [
+        "Kidnapping and Hostages",
+        "Sex Crimes",
+        "Child Abuse and Neglect"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Sablan, Steven Robert"
+      ],
+      "geo_facet": [
+        "Long Beach (Calif)",
+        "San Antonio (Tex)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A sign that a 13-year-old girl used at a parking lot in California to signal that she had been abducted.",
+          "copyright": "U.S. Department of Justice, via Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/22/multimedia/22xp-sign-gmwv/22xp-sign-gmwv-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/22/multimedia/22xp-sign-gmwv/22xp-sign-gmwv-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/22/multimedia/22xp-sign-gmwv/22xp-sign-gmwv-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/47c3550d-e040-5bd9-a52f-f36c3d93a7f0",
+      "url": "https://www.nytimes.com/2023/07/19/us/stanford-president-resigns-tessier-lavigne.html",
+      "id": 100000008996852,
+      "asset_id": 100000008996852,
+      "source": "New York Times",
+      "published_date": "2023-07-19",
+      "updated": "2023-07-21 08:41:02",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Colleges and Universities;Ethics and Official Misconduct;Falsification of Data;Research;Alzheimer's Disease;Science and Technology;Academic and Scientific Journals;Appointments and Executive Changes;internal-sub-only-except-search;Tessier-Lavigne, Marc;Stanford University;Genentech Inc;Cell (Journal);Nature (Journal);Science (Journal)",
+      "column": null,
+      "byline": "By Stephanie Saul",
+      "type": "Article",
+      "title": "Stanford President Will Resign After Report Found Flaws in His Research",
+      "abstract": "Marc Tessier-Lavigne was cleared of accusations of scientific fraud and misconduct. But the review said his work had “multiple problems” and “fell below customary standards of scientific rigor.”",
+      "des_facet": [
+        "Colleges and Universities",
+        "Ethics and Official Misconduct",
+        "Falsification of Data",
+        "Research",
+        "Alzheimer's Disease",
+        "Science and Technology",
+        "Academic and Scientific Journals",
+        "Appointments and Executive Changes",
+        "internal-sub-only-except-search"
+      ],
+      "org_facet": [
+        "Stanford University",
+        "Genentech Inc",
+        "Cell (Journal)",
+        "Nature (Journal)",
+        "Science (Journal)"
+      ],
+      "per_facet": [
+        "Tessier-Lavigne, Marc"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Marc Tessier-Lavigne, a noted scientist, announced he would resign as president of Stanford University.",
+          "copyright": "Carolyn Fong for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/18/multimedia/00NAT-REVIEW-1-hlqz/00NAT-REVIEW-1-hlqz-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/18/multimedia/00NAT-REVIEW-1-hlqz/00NAT-REVIEW-1-hlqz-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/18/multimedia/00NAT-REVIEW-1-hlqz/00NAT-REVIEW-1-hlqz-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/12cb730b-d668-5c05-9d6c-4ea4f030abef",
+      "url": "https://www.nytimes.com/2023/07/19/well/move/best-exercises-workouts.html",
+      "id": 100000008994671,
+      "asset_id": 100000008994671,
+      "source": "New York Times",
+      "published_date": "2023-07-19",
+      "updated": "2023-07-21 16:36:47",
+      "section": "Well",
+      "subsection": "Move",
+      "nytdsection": "well",
+      "adx_keywords": "Exercise;Muscles;Habits and Routines (Behavior);Content Type: Service;Longevity;Boxing;Tai Chi;internal-sub-only",
+      "column": null,
+      "byline": "By Erik Vance",
+      "type": "Article",
+      "title": "Our Favorite Workouts So Far This Year",
+      "abstract": "Halfway through 2023, find the exercise that will help you finish the year strong — no matter your fitness level.",
+      "des_facet": [
+        "Exercise",
+        "Muscles",
+        "Habits and Routines (Behavior)",
+        "Content Type: Service",
+        "Longevity",
+        "Boxing",
+        "Tai Chi",
+        "internal-sub-only"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Theo Stroomer for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/19/multimedia/19WELL-MIDYEAR-FITNESS-ROUNDUP2-jphk/19WELL-MIDYEAR-FITNESS-ROUNDUP2-jphk-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/19/multimedia/19WELL-MIDYEAR-FITNESS-ROUNDUP2-jphk/19WELL-MIDYEAR-FITNESS-ROUNDUP2-jphk-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/19/multimedia/19WELL-MIDYEAR-FITNESS-ROUNDUP2-jphk/19WELL-MIDYEAR-FITNESS-ROUNDUP2-jphk-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/08e12ef9-d411-5250-a250-8bf8c1759944",
+      "url": "https://www.nytimes.com/2023/07/20/magazine/family-genetics-frontotemporal-dementia.html",
+      "id": 100000008995764,
+      "asset_id": 100000008995764,
+      "source": "New York Times",
+      "published_date": "2023-07-20",
+      "updated": "2023-07-22 22:23:18",
+      "section": "Magazine",
+      "subsection": "",
+      "nytdsection": "magazine",
+      "adx_keywords": "Dementia;Genetics and Heredity;Families and Family Life;Rare and Orphan Diseases;internal-sub-only;Tests (Medical)",
+      "column": null,
+      "byline": "By Robert Kolker",
+      "type": "Article",
+      "title": "The Vanishing Family",
+      "abstract": "They all have a 50-50 chance of inheriting a cruel genetic mutation — which means disappearing into dementia in middle age. This is the story of what it’s like to live with those odds.",
+      "des_facet": [
+        "Dementia",
+        "Genetics and Heredity",
+        "Families and Family Life",
+        "Rare and Orphan Diseases",
+        "internal-sub-only",
+        "Tests (Medical)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo illustration by Najeebah Al-Ghadban",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/23/magazine/23mag-Gene-1/23mag-Gene-1-thumbStandard-v7.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/23/magazine/23mag-Gene-1/23mag-Gene-1-mediumThreeByTwo210-v6.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/23/magazine/23mag-Gene-1/23mag-Gene-1-mediumThreeByTwo440-v6.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e4b09353-0c69-58c3-9657-508a8328f682",
+      "url": "https://www.nytimes.com/2023/07/25/sports/ncaabasketball/bronny-james-cardiac-arrest-lebron.html",
+      "id": 100000009011352,
+      "asset_id": 100000009011352,
+      "source": "New York Times",
+      "published_date": "2023-07-25",
+      "updated": "2023-07-26 11:59:06",
+      "section": "Sports",
+      "subsection": "College Basketball",
+      "nytdsection": "sports",
+      "adx_keywords": "Sports Injuries;Basketball (College);Draft and Recruitment (Sports);James, LeBron Jr;James, LeBron;University of Southern California;Los Angeles Lakers;National Basketball Assn",
+      "column": null,
+      "byline": "By Tania Ganguli, Billy Witz and Gina Kolata",
+      "type": "Article",
+      "title": "Bronny James, Son of LeBron James, Is Stable After Cardiac Arrest",
+      "abstract": "Bronny, a basketball recruit at the University of Southern California, was stricken during a practice on Monday. He is out of intensive care and in stable condition, his family said.",
+      "des_facet": [
+        "Sports Injuries",
+        "Basketball (College)",
+        "Draft and Recruitment (Sports)"
+      ],
+      "org_facet": [
+        "University of Southern California",
+        "Los Angeles Lakers",
+        "National Basketball Assn"
+      ],
+      "per_facet": [
+        "James, LeBron Jr",
+        "James, LeBron"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Bronny James played high school basketball at Sierra Canyon School in Los Angeles.",
+          "copyright": "Gregory Payan/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/26/multimedia/25bronny-print-zctb/25bronny-zctb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/26/multimedia/25bronny-print-zctb/25bronny-zctb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/26/multimedia/25bronny-print-zctb/25bronny-zctb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/98dc1d13-8487-554c-a0d7-c5b3d8abd1ba",
+      "url": "https://www.nytimes.com/2023/07/19/us/mississippi-sheriff-sexual-abuse.html",
+      "id": 100000008963632,
+      "asset_id": 100000008963632,
+      "source": "New York Times",
+      "published_date": "2023-07-19",
+      "updated": "2023-07-19 22:54:59",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Sheriffs;Rural Areas;Sex Crimes;Prisons and Prisoners;Sexual Harassment;Workplace Hazards and Violations;Police Brutality, Misconduct and Shootings;Suits and Litigation (Civil);Sexting;internal-open-access;Scott, Eddie (1965- );Clay County (Miss)",
+      "column": null,
+      "byline": "By Ilyssa Daly, Jerry Mitchell and Rory Doyle",
+      "type": "Article",
+      "title": "Where the Sheriff Is King, These Women Say He Coerced Them Into Sex",
+      "abstract": "Sheriff Eddie Scott has been the top lawman in rural Clay County, Miss., for more than a decade despite repeated allegations.",
+      "des_facet": [
+        "Sheriffs",
+        "Rural Areas",
+        "Sex Crimes",
+        "Prisons and Prisoners",
+        "Sexual Harassment",
+        "Workplace Hazards and Violations",
+        "Police Brutality, Misconduct and Shootings",
+        "Suits and Litigation (Civil)",
+        "Sexting",
+        "internal-open-access"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Scott, Eddie (1965- )"
+      ],
+      "geo_facet": [
+        "Clay County (Miss)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sheriff Eddie Scott is among the most popular and powerful public figures in Clay County, Miss.",
+          "copyright": "",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/20/multimedia/00clay-sheriff-print-1-alt/00clay-sheriff-09-bptf-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/20/multimedia/00clay-sheriff-print-1-alt/00clay-sheriff-09-bptf-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/20/multimedia/00clay-sheriff-print-1-alt/00clay-sheriff-09-bptf-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/1509b3cb-dfd7-5552-a473-ef5ff4c57a31",
+      "url": "https://www.nytimes.com/2023/07/24/science/avi-loeb-extraterrestrial-life.html",
+      "id": 100000008986983,
+      "asset_id": 100000008986983,
+      "source": "New York Times",
+      "published_date": "2023-07-24",
+      "updated": "2023-07-25 11:46:47",
+      "section": "Science",
+      "subsection": "",
+      "nytdsection": "science",
+      "adx_keywords": "Extraterrestrial Life;Meteors and Meteorites;Space and Astronomy;Solar System;Sensors;Loeb, Abraham (1962- );Defense Department;National Aeronautics and Space Administration;Manus Island (Papua New Guinea);Papua New Guinea",
+      "column": null,
+      "byline": "By Katrina Miller",
+      "type": "Article",
+      "title": "Scientist’s Deep Dive for Alien Life Leaves His Peers Dubious",
+      "abstract": "Avi Loeb, a Harvard astrophysicist, says that material recovered from the seafloor could be from an extraterrestrial spacecraft. His peers are skeptical.",
+      "des_facet": [
+        "Extraterrestrial Life",
+        "Meteors and Meteorites",
+        "Space and Astronomy",
+        "Solar System",
+        "Sensors"
+      ],
+      "org_facet": [
+        "Defense Department",
+        "National Aeronautics and Space Administration"
+      ],
+      "per_facet": [
+        "Loeb, Abraham (1962- )"
+      ],
+      "geo_facet": [
+        "Manus Island (Papua New Guinea)",
+        "Papua New Guinea"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An image from an electron microprobe of a spherule recovered from the bottom of the Pacific Ocean. Dr. Avi Loeb believes these spherules are evidence that a meteor that crashed in the area came from outside our solar system.",
+          "copyright": "Stein Jacobsen and Avi Loeb, Harvard University",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/25/science/00sci-interstellar-new/00sci-interstellar-new-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/25/science/00sci-interstellar-new/00sci-interstellar-new-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/25/science/00sci-interstellar-new/00sci-interstellar-new-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c9cfdf4b-0c03-592c-9fce-0d1b3f7a9699",
+      "url": "https://www.nytimes.com/2023/07/20/business/delta-air-lines-heat-las-vegas-plane.html",
+      "id": 100000009005525,
+      "asset_id": 100000009005525,
+      "source": "New York Times",
+      "published_date": "2023-07-20",
+      "updated": "2023-07-21 05:50:39",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "Airlines and Airplanes;Heat and Heat Waves;Transportation;Buttigieg, Pete (1982- );Delta Air Lines Inc;Las Vegas (Nev);United States",
+      "column": null,
+      "byline": "By Livia Albeck-Ripka",
+      "type": "Article",
+      "title": "U.S. Investigating Why Delta Passengers Were Kept on Plane in Extreme Heat",
+      "abstract": "The flight, from Las Vegas to Atlanta, was stalled at Harry Reid International Airport, leaving passengers sweltering in triple-digit temperatures, the department said.",
+      "des_facet": [
+        "Airlines and Airplanes",
+        "Heat and Heat Waves",
+        "Transportation"
+      ],
+      "org_facet": [
+        "Delta Air Lines Inc"
+      ],
+      "per_facet": [
+        "Buttigieg, Pete (1982- )"
+      ],
+      "geo_facet": [
+        "Las Vegas (Nev)",
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Delta Air Lines planes at the Las Vegas airport in 2020.",
+          "copyright": "Shannon Stapleton/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/21/lens/21xp-tarmac/21xp-tarmac-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/21/lens/21xp-tarmac/21xp-tarmac-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/21/lens/21xp-tarmac/21xp-tarmac-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b73aac0a-a896-51e0-ad3b-0f4f8bed896a",
+      "url": "https://www.nytimes.com/2023/07/25/us/politics/biden-asylum-policy-immigration.html",
+      "id": 100000009004622,
+      "asset_id": 100000009004622,
+      "source": "New York Times",
+      "published_date": "2023-07-25",
+      "updated": "2023-07-26 09:21:20",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Asylum, Right of;Illegal Immigration;Immigration and Emigration;United States Politics and Government;Decisions and Verdicts;Biden, Joseph R Jr;Tigar, Jon S;Mexico;United States",
+      "column": null,
+      "byline": "By Miriam Jordan and Eileen Sullivan",
+      "type": "Article",
+      "title": "Federal Judge Blocks Biden Administration’s New Asylum Policy",
+      "abstract": "Immigrant advocacy groups had challenged the administration’s decision to sharply limit who is allowed to apply for asylum in the United States.",
+      "des_facet": [
+        "Asylum, Right of",
+        "Illegal Immigration",
+        "Immigration and Emigration",
+        "United States Politics and Government",
+        "Decisions and Verdicts"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Tigar, Jon S"
+      ],
+      "geo_facet": [
+        "Mexico",
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A group of men from El Salvador were detained in May by Border Patrol agents in Sunland Park, N.M.",
+          "copyright": "Todd Heisler/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/25/multimedia/25immig-asylum-05-cqkb/25immig-asylum-05-cqkb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/25/multimedia/25immig-asylum-05-cqkb/25immig-asylum-05-cqkb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/25/multimedia/25immig-asylum-05-cqkb/25immig-asylum-05-cqkb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f6e51875-27d1-5aab-9e2d-7dba7dbff528",
+      "url": "https://www.nytimes.com/2023/07/21/nyregion/michael-cohen-trump-org-lawsuit.html",
+      "id": 100000009006446,
+      "asset_id": 100000009006446,
+      "source": "New York Times",
+      "published_date": "2023-07-21",
+      "updated": "2023-07-23 15:51:07",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Suits and Litigation (Civil);New York State Criminal Case Against Trump (71543-23);Cohen, Michael D (1966- );Trump, Donald J;Trump Organization",
+      "column": null,
+      "byline": "By Ben Protess, Jonah E. Bromwich and Kate Christobek",
+      "type": "Article",
+      "title": "Michael Cohen Agrees to Settle Lawsuit With Trump Organization",
+      "abstract": "Donald J. Trump’s former fixer had accused the company of failing to abide by the terms of a deal and refusing to pay more than $1 million in legal costs",
+      "des_facet": [
+        "Suits and Litigation (Civil)",
+        "New York State Criminal Case Against Trump (71543-23)"
+      ],
+      "org_facet": [
+        "Trump Organization"
+      ],
+      "per_facet": [
+        "Cohen, Michael D (1966- )",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michael D. Cohen, Donald J. Trump’s former longtime fixer, at right with his lawyer, Lanny Davis.",
+          "copyright": "Jefferson Siegel for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/21/multimedia/21trump-cohen-gclz/21trump-cohen-gclz-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/21/multimedia/21trump-cohen-gclz/21trump-cohen-gclz-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/21/multimedia/21trump-cohen-gclz/21trump-cohen-gclz-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/3135b676-f7f2-5b34-85c4-ac4575814765",
+      "url": "https://www.nytimes.com/2023/07/18/movies/barbie-movie-review.html",
+      "id": 100000008991145,
+      "asset_id": 100000008991145,
+      "source": "New York Times",
+      "published_date": "2023-07-18",
+      "updated": "2023-07-25 07:50:14",
+      "section": "Movies",
+      "subsection": "",
+      "nytdsection": "movies",
+      "adx_keywords": "Movies;audio-positive-nostalgic;audio-positive-happy;audio-positive-escape;internal-sub-only-except-search;Gerwig, Greta;Robbie, Margot;Gosling, Ryan;Mattel Inc",
+      "column": null,
+      "byline": "By Manohla Dargis",
+      "type": "Article",
+      "title": "‘Barbie’ Review: Out of the Box and On the Road",
+      "abstract": "She’s in the driver’s seat, headed for uncharted territory (flat feet!). But there are limits to how much dimension even Greta Gerwig can give this branded material.",
+      "des_facet": [
+        "Movies",
+        "audio-positive-nostalgic",
+        "audio-positive-happy",
+        "audio-positive-escape",
+        "internal-sub-only-except-search"
+      ],
+      "org_facet": [
+        "Mattel Inc"
+      ],
+      "per_facet": [
+        "Gerwig, Greta",
+        "Robbie, Margot",
+        "Gosling, Ryan"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Margot Robbie, right, as Barbie, and Ryan Gosling, as Ken, in Greta Gerwig’s “Barbie.”",
+          "copyright": "Warner Bros. ",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/20/multimedia/18barbie-review-ftwc/18barbie-review-ftwc-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/20/multimedia/18barbie-review-ftwc/18barbie-review-ftwc-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/20/multimedia/18barbie-review-ftwc/18barbie-review-ftwc-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/43d3078d-5cc8-5161-a33e-0ed9d5d6a784",
+      "url": "https://www.nytimes.com/2023/07/22/opinion/trump-jack-smith.html",
+      "id": 100000009006962,
+      "asset_id": 100000009006962,
+      "source": "New York Times",
+      "published_date": "2023-07-22",
+      "updated": "2023-07-24 10:41:12",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Voter Fraud (Election Fraud);Rumors and Misinformation;Special Prosecutors (Independent Counsel);Storming of the US Capitol (Jan, 2021);Presidential Election of 2020;Presidential Election of 2024;United States Politics and Government;Trump, Donald J;Smith, Jack (Attorney)",
+      "column": null,
+      "byline": "By Maureen Dowd",
+      "type": "Article",
+      "title": "The Moment of Truth for Our Liar in Chief",
+      "abstract": "Has Florida Man met his match in an Ironman?",
+      "des_facet": [
+        "Voter Fraud (Election Fraud)",
+        "Rumors and Misinformation",
+        "Special Prosecutors (Independent Counsel)",
+        "Storming of the US Capitol (Jan, 2021)",
+        "Presidential Election of 2020",
+        "Presidential Election of 2024",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J",
+        "Smith, Jack (Attorney)"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/22/multimedia/22Dowd-wclb/22Dowd-wclb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/22/multimedia/22Dowd-wclb/22Dowd-wclb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/22/multimedia/22Dowd-wclb/22Dowd-wclb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ce615a16-49ee-53d1-acc1-577d8a28e596",
+      "url": "https://www.nytimes.com/2023/07/19/movies/oppenheimer-review-christopher-nolan.html",
+      "id": 100000008991180,
+      "asset_id": 100000008991180,
+      "source": "New York Times",
+      "published_date": "2023-07-19",
+      "updated": "2023-07-24 04:48:33",
+      "section": "Movies",
+      "subsection": "",
+      "nytdsection": "movies",
+      "adx_keywords": "Movies;audio-neutral-informative;audio-neutral-immersive;Nolan, Christopher;Murphy, Cillian",
+      "column": null,
+      "byline": "By Manohla Dargis",
+      "type": "Article",
+      "title": "‘Oppenheimer’ Review: A Man for Our Time",
+      "abstract": "Christopher Nolan’s complex, vivid portrait of J. Robert Oppenheimer, the “father of the atomic bomb,” is a brilliant achievement in formal and conceptual terms.",
+      "des_facet": [
+        "Movies",
+        "audio-neutral-informative",
+        "audio-neutral-immersive"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Nolan, Christopher",
+        "Murphy, Cillian"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In Christopher Nolan’s new film, “Oppenheimer,” Cillian Murphy stars as J. Robert Oppenheimer, the American physicist who oversaw the Manhattan Project in Los Alamos, N.M.",
+          "copyright": "Universal Pictures",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/20/multimedia/20oppenheimer-review-vzjh/20oppenheimer-review-vzjh-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/20/multimedia/20oppenheimer-review-vzjh/20oppenheimer-review-vzjh-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/20/multimedia/20oppenheimer-review-vzjh/20oppenheimer-review-vzjh-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/846b5451-5fcb-5af0-bffd-002c4f49caff",
+      "url": "https://www.nytimes.com/interactive/2023/07/24/upshot/ivy-league-elite-college-admissions.html",
+      "id": 100000009007494,
+      "asset_id": 100000009007494,
+      "source": "New York Times",
+      "published_date": "2023-07-24",
+      "updated": "2023-07-25 06:36:32",
+      "section": "The Upshot",
+      "subsection": "",
+      "nytdsection": "the upshot",
+      "adx_keywords": "Colleges and Universities;Admissions Standards;Income Inequality;internal-sub-only-except-search;Chetty, Raj;Ivy League;Harvard University;Stanford University;Duke University;University of Chicago;Massachusetts Institute of Technology;Brown University;Cornell University;Dartmouth College;Princeton University;Yale University;University of Pennsylvania;Columbia University",
+      "column": null,
+      "byline": "By Aatish Bhatia, Claire Cain Miller and Josh Katz",
+      "type": "Interactive",
+      "title": "Study of Elite College Admissions Data Suggests Being Very Rich Is Its Own Qualification",
+      "abstract": "Extraordinarily detailed data shows how elite colleges prefer the richest students, even among students with similar test scores.",
+      "des_facet": [
+        "Colleges and Universities",
+        "Admissions Standards",
+        "Income Inequality",
+        "internal-sub-only-except-search"
+      ],
+      "org_facet": [
+        "Ivy League",
+        "Harvard University",
+        "Stanford University",
+        "Duke University",
+        "University of Chicago",
+        "Massachusetts Institute of Technology",
+        "Brown University",
+        "Cornell University",
+        "Dartmouth College",
+        "Princeton University",
+        "Yale University",
+        "University of Pennsylvania",
+        "Columbia University"
+      ],
+      "per_facet": [
+        "Chetty, Raj"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/23/multimedia/up-ivy-league-admissions-index/up-ivy-league-admissions-index-thumbStandard.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/23/multimedia/up-ivy-league-admissions-index/up-ivy-league-admissions-index-mediumThreeByTwo210.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/23/multimedia/up-ivy-league-admissions-index/up-ivy-league-admissions-index-mediumThreeByTwo440.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
