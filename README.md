@@ -9,6 +9,7 @@ Hey!, Thank you for giving me the opportunity for this task. Please feel free to
 - Unzip files/Clone repo.
 - Resolve/Reset Package.
 - Build and run.
+- Xcode Version 14.1 (14B47b)
 
 ### Features
 - Swift + UIKit with MVVM Architecture.
