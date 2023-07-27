@@ -39,7 +39,7 @@ Hey!, Thank you for giving me the opportunity for this task. Please feel free to
 ### Improvements that can be done:
 - UI testing.
 - Dark mode if mandatory.
-
+- Period Selection with action sheet or any other listing menu
 
 *Selection:
 <br>
